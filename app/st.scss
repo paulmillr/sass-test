@@ -1,0 +1,8 @@
+// @import 'bootstrap';
+@import "bourbon";
+@import "base/base";
+
+$all-text-inputs: 'input';
+#{$all-text-inputs} {
+  color: red;
+}
